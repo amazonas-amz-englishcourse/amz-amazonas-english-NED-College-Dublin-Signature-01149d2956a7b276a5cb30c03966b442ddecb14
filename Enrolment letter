@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>AMZ Amazonas — Comprovante de aulas</title>
+  <title> NED College - Enrolment letter </title>
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
     html, body { height: 100%; }
@@ -19,7 +19,7 @@
 <body>
   <iframe src="carta.pdf" title="Comprovante de aulas"></iframe>
   <div class="barra">
-    <a class="btn" href="carta.pdf" download>Baixar comprovante (PDF)</a>
+    <a class="btn" href="carta.pdf" >Baixar comprovante (PDF)</a>
   </div>
 </body>
 </html>
